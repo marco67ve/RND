@@ -1,3 +1,4 @@
+
 RND.BAS (1989)
 
 Piccola utility didattica che mostra come trasformare il valore
